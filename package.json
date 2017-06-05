@@ -1,0 +1,22 @@
+{
+  "name": "pro",
+  "version": "1.0.0",
+  "description": "dont know",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrakashDathu/comment.git"
+  },
+  "author": "santosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrakashDathu/comment/issues"
+  },
+  "homepage": "https://github.com/PrakashDathu/comment#readme",
+  "dependencies": {
+    "formidable": "^1.1.1"
+  }
+}
